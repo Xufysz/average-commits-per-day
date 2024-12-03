@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/average-commits-per-day/static/css/main.42540981.css",
+    "main.js": "/average-commits-per-day/static/js/main.bf552bbe.js",
+    "static/js/453.60ed81ae.chunk.js": "/average-commits-per-day/static/js/453.60ed81ae.chunk.js",
+    "index.html": "/average-commits-per-day/index.html",
+    "main.42540981.css.map": "/average-commits-per-day/static/css/main.42540981.css.map",
+    "main.bf552bbe.js.map": "/average-commits-per-day/static/js/main.bf552bbe.js.map",
+    "453.60ed81ae.chunk.js.map": "/average-commits-per-day/static/js/453.60ed81ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42540981.css",
+    "static/js/main.bf552bbe.js"
+  ]
+}
